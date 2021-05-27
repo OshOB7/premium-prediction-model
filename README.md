@@ -1,1 +1,1 @@
-# premium-prediction-model
+# premium-prediction-mode
